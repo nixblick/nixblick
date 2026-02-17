@@ -19,7 +19,20 @@ Keeping critical infrastructure running so others can focus on the real emergenc
 ![Postfix](https://img.shields.io/badge/-Postfix-005FF9?style=flat-square&logo=mail.ru&logoColor=white)
 ![CheckMK](https://img.shields.io/badge/-CheckMK-15D798?style=flat-square&logo=checkmk&logoColor=white)
 ![SELinux](https://img.shields.io/badge/-SELinux-CC0000?style=flat-square&logo=redhat&logoColor=white)
-
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/-OpenClaw-181717?style=flat-square&logo=github&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-0088CC?style=flat-square&logo=googlechrome&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ---
 
 ### 🏗️ Focus Areas
