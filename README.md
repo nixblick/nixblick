@@ -26,7 +26,6 @@ Keeping critical infrastructure running so others can focus on the real emergenc
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-181717?style=flat-square&logo=github&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-0088CC?style=flat-square&logo=googlechrome&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
