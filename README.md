@@ -45,8 +45,3 @@ Keeping critical infrastructure running so others can focus on the real emergenc
 [![GitHub](https://img.shields.io/badge/-nixblick-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nixblick)
 ```
 
----
-
-**Badge-Baukasten** falls du selbst welche anpassen willst:
-```
-https://img.shields.io/badge/-LABEL-FARBE?style=flat-square&logo=LOGONAME&logoColor=white
