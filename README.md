@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm André 👋
 
-<!--
-**nixblick/nixblick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Linux Administrator @ [Feuerwehr Frankfurt](https://www.feuerwehr-frankfurt.de) — keeping critical infrastructure running so others can focus on the real emergencies.
 
-Here are some ideas to get you started:
+### 🛠️ What I work with daily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Systems & Infra**
+- Rocky Linux · VMware vCenter · Ansible
+- CheckMK · Postfix · Apache · SELinux
+
+**Automation & Monitoring**
+- Ansible Roles & Playbooks für Security Hardening, CUPS, App Deployments
+- CheckMK Local Checks (Bash/Python) für Postfix, Apache, PKI, Login-Tracking
+- GitLab CI/CD · NetBox · LDAP
+
+**Emergency Services Tech**
+- Alamos · IGNIS Plus · Einsatzleit-Infrastruktur
+
+---
+
+### 🧪 Hobby Projects
+
+| Projekt | Stack |
+|---|---|
+| Chess game analysis tool | Python |
+| File deduplication across NAS systems | Python |
+| Family website | HTML/CSS |
+
+---
+
+### 💬 Ask me about
+
+- CheckMK custom checks & local checks
+- Ansible auf Rocky Linux
+- Postfix relay setups & SASL auth
+- SELinux policies für Legacy-Apps
+
+---
+
+### 📫 Reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-nixblick-181717?logo=github)](https://github.com/nixblick)
