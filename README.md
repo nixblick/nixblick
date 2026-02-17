@@ -1,6 +1,6 @@
 ## Hi, I'm André 👋
 
-📍 Frankfurt am Main | 🔥 Senior Linux Admin @ Feuerwehr Frankfurt | 🖥️ Hobby Programmer
+📍 Frankfurt am Main | 🔥 Senior Linux Admin | 🖥️ Hobby Programmer | 🛡️ Cybersecurity Student | 🖥️ Automation Enthusiast
 
 Keeping critical infrastructure running so others can focus on the real emergencies.
 13+ years of Linux, automation, and monitoring — from bare metal to emergency dispatch systems.
@@ -19,6 +19,17 @@ Keeping critical infrastructure running so others can focus on the real emergenc
 ![Postfix](https://img.shields.io/badge/-Postfix-005FF9?style=flat-square&logo=mail.ru&logoColor=white)
 ![CheckMK](https://img.shields.io/badge/-CheckMK-15D798?style=flat-square&logo=checkmk&logoColor=white)
 ![SELinux](https://img.shields.io/badge/-SELinux-CC0000?style=flat-square&logo=redhat&logoColor=white)
+
+---
+
+### 🏗️ Focus Areas
+
+- 🔐 Linux Hardening & Security Automation
+- 🧩 Infrastructure as Code (Ansible-first mindset)
+- 🖧 Homelab Engineering (Docker, Reverse Proxy, Monitoring, Mail Routing)
+- 📊 NetBox Automation & CMDB Sync
+- 🎙️ AI-assisted Workflows (Whisper on NVIDIA Jetson)
+- 📡 Monitoring & Alerting mit reproduzierbarer Konfiguration
 
 ---
 
@@ -43,5 +54,3 @@ Keeping critical infrastructure running so others can focus on the real emergenc
 ### 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/-nixblick-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nixblick)
-```
-
